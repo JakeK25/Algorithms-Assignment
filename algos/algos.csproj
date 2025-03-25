@@ -7,4 +7,13 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Content Include="bin\Debug\net7.0\Share_1_2048.txt" />
+      <Content Include="bin\Debug\net7.0\Share_1_256.txt" />
+      <Content Include="bin\Debug\net7.0\Share_2_2048.txt" />
+      <Content Include="bin\Debug\net7.0\Share_2_256.txt" />
+      <Content Include="bin\Debug\net7.0\Share_3_2048.txt" />
+      <Content Include="bin\Debug\net7.0\Share_3_256.txt" />
+    </ItemGroup>
+
 </Project>
