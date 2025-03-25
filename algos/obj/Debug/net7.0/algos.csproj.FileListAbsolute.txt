@@ -1,0 +1,15 @@
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/bin/Debug/net7.0/algos
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/bin/Debug/net7.0/algos.deps.json
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/bin/Debug/net7.0/algos.runtimeconfig.json
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/bin/Debug/net7.0/algos.dll
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/bin/Debug/net7.0/algos.pdb
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/obj/Debug/net7.0/algos.csproj.AssemblyReference.cache
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/obj/Debug/net7.0/algos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/obj/Debug/net7.0/algos.AssemblyInfoInputs.cache
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/obj/Debug/net7.0/algos.AssemblyInfo.cs
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/obj/Debug/net7.0/algos.csproj.CoreCompileInputs.cache
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/obj/Debug/net7.0/algos.dll
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/obj/Debug/net7.0/refint/algos.dll
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/obj/Debug/net7.0/algos.pdb
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/obj/Debug/net7.0/algos.genruntimeconfig.cache
+/Users/jakekeightley/RiderProjects/Algorithms-Assignment/algos/obj/Debug/net7.0/ref/algos.dll
