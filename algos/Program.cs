@@ -1,4 +1,30 @@
-﻿namespace Algos
+﻿// Description of Implementation:
+// Program name: Stock analysis
+// Author: Jake Keightley 28997203
+// Submission date: 27/03/25
+
+// Description:
+// - This program sorts and searches through 3 different text files which are share exchange tables.
+// - This program will use a bubble sorting algorithm and a linear search algorithm to provide that functionality
+// - to the user.
+
+// Main Functions:
+// - The main functions of this program are to sort and search through 3 text files including 256 numbers.
+// - Bubble sort algorithm needs to be implemented, as well as linear search algorithm.
+
+// Input Parameters:
+// - Share files need to be placed in the debug file.
+// - The share files given include 256 numbers gathered from the stock exchange.
+// - These numbers will be converted into multiple arrays and the searching and sorting will occur using these arrays.
+
+// Expected Output:
+// - Searching is supposed to output true or false, showing whether the users number is within the specified file.
+// - Sorting is supposed to sort the numbers in ascending order and display every 10th value.
+
+// Number of sorting and searching algorithms implemented:
+// - 2 (linear search and bubble sort)
+
+namespace Algos
 {
     public class Program
     {
